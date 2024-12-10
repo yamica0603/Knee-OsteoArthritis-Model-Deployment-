@@ -1,1 +1,1 @@
-# Knee-OsteoArthritis-Model-Deployment-
+# Knee-OsteoArthritis-Model
